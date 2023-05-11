@@ -1,7 +1,9 @@
 # IP2Host.
 a re-make of @adon90s dirty bash script that can turn IP address domain lookup using a bunch of APIs with added functionality - taking input form a .txt file 
+<p align="center">
+  <img src="https://github.com/Sic4rio/IP2Host./blob/main/ip2host.gif?raw=true" width="600" height="400" />
+</p>
 
-https://github.com/Sic4rio/IP2Host./blob/main/ip2host.gif?raw=true
 
     The script starts with a check to ensure that the script is called with an IP address as an argument. If the argument count is not 1, it displays a message indicating the correct usage and exits.
 
