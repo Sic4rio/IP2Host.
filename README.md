@@ -1,5 +1,5 @@
 # IP2Host.
-a re-make of @adon90s dirty bash script that can turn IP address domain lookup using APIs with added functionality - taking input form a .txt file 
+a re-make of @adon90s dirty bash script that can turn IP address domain lookup using a bunch of APIs with added functionality - taking input form a .txt file 
 
     The script starts with a check to ensure that the script is called with an IP address as an argument. If the argument count is not 1, it displays a message indicating the correct usage and exits.
 
