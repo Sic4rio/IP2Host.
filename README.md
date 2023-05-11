@@ -1,5 +1,5 @@
 # IP2Host.
-a re-make of @adon90s dirty bash script that can turn IP address domain lookup using a bunch of APIs with added functionality - taking input form a .txt file 
+a re-make of @adon90s dirty bash script that can turn IP address to domain names. Does a lookup using a bunch of APIs with added functionality - can do multiple IP addresses - taking input from a .txt file and also added progress bar. 
 <p align="center">
   <img src="https://github.com/Sic4rio/IP2Host./blob/main/ip2host.gif?raw=true" width="600" height="400" />
 </p>
